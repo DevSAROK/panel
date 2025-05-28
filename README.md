@@ -1,5 +1,4 @@
-# panel
-Pufferpanel installation codes-
+# Pufferpanel installation codes
 
 $ apt update
 
